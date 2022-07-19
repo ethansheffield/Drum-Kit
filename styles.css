@@ -12,7 +12,7 @@ h1 {
 }
 
 footer {
-  text-align: center;
+  align-items: center;
   position: absolute;
   color: #DBEDF3;
   opacity: 0.25;
